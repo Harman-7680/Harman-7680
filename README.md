@@ -1,9 +1,3 @@
-# Hi 👋, I'm Harman Singh
-
-I'm a Web Developer currently working professionally, with a strong focus on building real-world applications using PHP and Laravel.
-
----
-
 ## 👨‍💻 About Me
 
 * 💼 Working as a Web Developer
