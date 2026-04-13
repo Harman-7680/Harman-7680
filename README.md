@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Harman Singh
 
-<!--
-**Harman-7680/Harman-7680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer currently working professionally, with a strong focus on building real-world applications using PHP and Laravel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 💼 Working as a Web Developer
+* 🎓 Completed BCA & MCA
+* 🧠 6 months training in PHP & Laravel
+* 🚀 Currently working on **Affirmspace** project
+
+I enjoy solving real problems and building complete systems — from backend logic to frontend UI and even APIs for mobile apps.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages & Backend:** PHP, Laravel, JavaScript
+* **Frontend:** HTML, CSS
+* **Database:** MySQL
+* **Tools & Services:** Git, Firebase, Agora, Jitsi API
+* **APIs & Integrations:**
+
+  * LocationIQ
+  * JWT Authentication
+  * Razorpay Payment Gateway
+  * Social Login Integration
+
+---
+
+## 🚀 Projects
+
+* 🐾 Pet Website
+* 📝 Blogs Website
+* 🌐 Affirmspace (Current Project)
+
+  * Built full system (Frontend + Backend)
+  * Developed APIs for mobile application
+  * Implemented chat system using Firebase
+  * Integrated **Razorpay Payment Gateway (complete setup & flow)**
+  * Worked on authentication & social login
+
+---
+
+## 💳 Payment Integration Experience
+
+* Implemented **Razorpay** in live project (Affirmspace)
+* Handled complete payment flow (order creation → payment → verification)
+* Worked with secure transactions and backend validation
+
+---
+
+## 📚 What I’m Doing Now
+
+* Improving backend architecture
+* Working on scalable Laravel applications
+* Exploring real-time systems & integrations
+
+---
+
+## 📫 Contact
+
+* Email: [harman7680@gmail.com](mailto:harman7680@gmail.com)
+
+---
+
+## ⚡ A Little About Me
+
+I like building practical applications and continuously improving my development skills by working on real-world projects.
