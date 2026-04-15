@@ -30,7 +30,7 @@ I enjoy solving real problems and building complete systems — from backend log
 * 📝 Blogs Website
 * 🌐 Affirmspace (Current Project)
 
-  * Built full system (Frontend + Backend)
+  * Built full system (Backend)
   * Developed APIs for mobile application
   * Implemented chat system using Firebase
   * Integrated **Razorpay Payment Gateway (complete setup & flow)**
