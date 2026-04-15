@@ -54,12 +54,6 @@ I enjoy solving real problems and building complete systems — from backend log
 
 ---
 
-## 📫 Contact
-
-* Email: [harman7680@gmail.com](mailto:harman7680@gmail.com)
-
----
-
 ## ⚡ A Little About Me
 
 I like building practical applications and continuously improving my development skills by working on real-world projects.
