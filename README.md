@@ -46,6 +46,15 @@ I enjoy solving real problems and building complete systems — from backend log
 
 ---
 
+🚀 Open Source & Packages
+
+I also contribute by building reusable Laravel packages and tools for developers.
+
+* Reverb Chat Package
+  A real-time Laravel chat package built using Laravel Reverb WebSockets.
+
+---
+
 ## 📚 What I’m Doing Now
 
 * Improving backend architecture
